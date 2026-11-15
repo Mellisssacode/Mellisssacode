@@ -1,5 +1,5 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:B57EDC&height=160&section=header&text=Ana%20Melissa&fontColor=FFFFFF&fontSize=40)
-
+![banner](banner.jpg.jpg)
+# Ana Melissa 🌙
 ## 💜 Sobre mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Aprendendo programação
