@@ -1,6 +1,5 @@
 ![banner](banner.jpg.jpg)
 # Ana Melissa 🌙
-## 💜 Sobre mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Aprendendo programação
 
